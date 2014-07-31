@@ -1,6 +1,6 @@
-# Atom Dark UI theme
+# Atom Blue Dream UI
 
-Default dark UI theme for Atom.
+Theme for those who like the color blue.
 
 This theme is installed by default with Atom and can be activated by going to
 the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
